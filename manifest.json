@@ -1,11 +1,12 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Example Plugin",
+	"id": "AAA App",
+	"name": "Akiem's AI App",
 	"version": "2.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "This is a sample plugin for Obsidian. This plugin does nothing special.",
 	"author": "AkiemW",
 	"authorUrl": "https://obsidian.md",
 	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"isDesktopOnly": true,
+	"platform": "node"
 }
